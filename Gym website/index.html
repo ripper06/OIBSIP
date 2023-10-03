@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fitness Revolution</title>
+    <link rel="stylesheet" href="gymcss.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Inconsolata&family=Roboto+Mono:wght@100&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Inconsolata&family=Roboto+Mono:wght@100&family=Sedgwick+Ave+Display&display=swap" rel="stylesheet">    
+    <style>
+        body{
+            margin: 0px;
+            padding: 0px;
+            background: url('GYM.jpg');
+            background-size: 100%;
+           /* background-repeat: no-repeat; */
+           
+           color: aliceblue;
+        }
+
+        .left{
+            /* border: 2px solid red; */
+            display: inline-block;
+            position: absolute;
+            left: 50px;
+            top: 20px;
+        }
+
+        .left img{
+            height: 95px;
+            width:100px;
+           
+            border-radius: 50px;
+            filter: grayscale(100%);
+            
+            
+        }
+
+        .left div {
+        line-height: 19px;
+        font-size: 10px;
+        text-align: center;
+        font-family: 'Black Ops One', cursive;
+
+    }
+
+
+        .mid{
+            /* border: 2px solid rgb(41, 182, 52); */
+            display: block;
+            width: 36%;
+            margin: 29px auto;
+            top: 20px;
+        }
+
+        .navbar{
+            display: inline-block;
+            margin: 5px;
+            padding-left: 4px;
+        }
+        
+        .navbar li{
+            display: inline-block;
+            font-size: 18px;
+        }
+        .navbar li a{
+            color: white;
+            text-decoration: none;
+            text-align: center;
+            padding: 25px 23px;
+        }
+
+        .navbar li a:hover, .navbar li a.active{
+            text-decoration: underline;
+            color: grey;
+        }
+
+        .right{
+            /* border: 2px solid rgb(244, 244, 12); */
+            display: inline-block;
+            position: absolute;
+            right: 34px;
+            top: 20px;
+        }
+
+        .btn {
+        font-family: 'Baloo Bhai', cursive;
+        margin: 0px 9px;
+        background-color: black;
+        color: white;
+        padding: 4px 14px;
+        border: 2px solid grey;
+        border-radius: 10px;
+        font-size: 15px;
+        cursor: pointer;
+    }
+
+    .btn:hover {
+        background-color: rgb(31, 30, 30);
+    }
+
+    .container{
+         border: 2px solid rgb(255, 255, 255) ;
+         margin: 106px 80px;
+         padding: 75px;
+         width: 33%;
+         border-radius: 28px;
+    }
+
+    
+    .form-group input {
+        font-family: 'Baloo Bhai', cursive;
+        text-align: center;
+        display: block;
+        width: 508px;
+        padding: 1px;
+        border: 2px solid cornsilk;
+        margin: 11px auto;
+        font-size: 25px;
+        border-radius: 8px;
+        background-color: rgb(245, 243, 243);
+    }
+
+    .container h1 {
+        text-align: center;
+    }
+
+    .container button {
+        display: block;
+        width: 74%;
+        margin: 20px auto;
+    }
+
+    .quote {
+        display: inline-block;
+        position: absolute;
+        right: 50px;
+        top: 28%;
+    }
+
+    .quote h3{
+        font-family: 'Black Ops One', cursive;
+        font-size: 65px;
+    }
+
+    </style>
+</head>
+<body>
+    <header class="header">
+
+        <div class="left">
+            <img src="logo.jpg" alt="logo">
+            <div>Fitness Revolutin!</div>
+        </div>
+
+        <div class="mid">
+             <ul class="navbar">
+                <li><a href="#" class="active">Home</a></li>
+                <li><a href="#">About us</a></li>
+                <li><a href="#">Fitness Calculator</a></li>
+                <li><a href="#">Contact Us</a></li>
+
+                
+             </ul>
+        </div>
+
+        <div class="right">
+            <button class="btn">Call Us Now</button>
+            <button class="btn">Email Us</button>
+        </div>
+
+        <div class="quote">
+            <h3>Identify yourself <br> with us.....</h3>
+        </div>
+    </header>
+
+    <div class="container">
+        <h1>Join the best gym of Odisha now!</h1>
+    
+    <form action="noaction.php">
+
+        <div class="form-group">
+            <input type="text" name="" placeholder="Enter your Name">
+        </div>
+        <div class="form-group">
+            <input type="text" name="" placeholder="Enter your Age">
+        </div>
+        <div class="form-group">
+            <input type="text" name="" placeholder="Enter your Gender">
+        </div>
+        <div class="form-group">
+            <input type="text" name="" placeholder="Enter your Locality">
+        </div>
+        <div class="form-group">
+            <input type="text" name="" placeholder="Enter your Email Id">
+        </div>
+        <div class="form-group">
+            <input type="text" name="" placeholder="Enter your Phone Number">
+        </div>
+        <button class="btn">Submit</button> 
+    </form>
+    </div>
+</body>
+</html>
