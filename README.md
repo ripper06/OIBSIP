@@ -7,11 +7,11 @@ Level 1 consists of three projects that helped me gain a foundational understand
 
 Project 1 - Gym Website Landing Page:
 
-Description: A landing page for Fitness Revolution, built using HTML and CSS.
-Technologies Used: HTML, CSS
-Deployment: The page is deployed on Vercel at [Fitness Revolution](http://127.0.0.1:5501/gymwebsite.html#).
-Repository: The project's GitHub repository can be found at GitHub Repository.
-ScreenShots:
+* Description: A landing page for Fitness Revolution, built using HTML and CSS.
+* Technologies Used: HTML, CSS
+* Deployment: The page is deployed on Vercel at [Fitness Revolution](http://127.0.0.1:5501/gymwebsite.html#).
+* Repository: The project's GitHub repository can be found at GitHub Repository.
+* ScreenShots:
 
 ![Screenshot 2023-10-03 125400](https://github.com/ripper06/OIBSIP/assets/138066281/be5e693f-f0dc-460a-a5e5-26fde6396eb2)
 
