@@ -21,15 +21,15 @@ Level 1 consists of three projects that helped me gain a foundational understand
      experience, featuring eye-catching designs, subtle animations, and interactive elements.
 * Technologies Used: HTML, CSS and Js.
 * Deployment: The page is deployed on Vercel at [Fitness Revolution](https://oibsip-gamma.vercel.app/).
-* Repository: The project's GitHub repository can be found at [[GitHub Repository](https://github.com/ripper06/OIBSIP/tree/main/Temp%20Converter).
+* Repository: The project's GitHub repository can be found at [[GitHub Repository].
 * ScreenShots:
 
 3. Project 3
 
 * Description:A stylish temperature converter web app designed using HTML, CSS, and JavaScript, offering a seamless user experience with a modern UI, interactive features, and captivating mathematical-themed background.
 * Technologies Used: HTML, CSS and Js.
-* Deployment: The page is deployed on Vercel at [Fitness Revolution](https://oibsip-gamma.vercel.app/).
-* Repository: The project's GitHub repository can be found at [GitHub Repository](https://github.com/ripper06/OIBSIP/tree/main/Gym%20website).
+* Deployment: The page is deployed on Vercel at [Temprature Converter](https://tempratureconverter.vercel.app/).
+* Repository: The project's GitHub repository can be found at [GitHub Repository](https://github.com/ripper06/OIBSIP/tree/main/Temp%20Converter).
 * ScreenShots:
 
 ![Screenshot 2023-10-03 215537](https://github.com/ripper06/OIBSIP/assets/138066281/45ca891b-085f-48cb-960a-432106e333ee)
