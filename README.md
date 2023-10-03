@@ -9,7 +9,7 @@ Project 1 - Gym Website Landing Page:
 
 * Description: A landing page for Fitness Revolution, built using HTML and CSS.
 * Technologies Used: HTML, CSS
-* Deployment: The page is deployed on Vercel at [Fitness Revolution](http://127.0.0.1:5501/gymwebsite.html#).
+* Deployment: The page is deployed on Vercel at [Fitness Revolution](https://oibsip-gamma.vercel.app/).
 * Repository: The project's GitHub repository can be found at [GitHub Repository](https://github.com/ripper06/OIBSIP/tree/main/Gym%20website).
 * ScreenShots:
 
