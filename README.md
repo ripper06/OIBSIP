@@ -21,7 +21,7 @@ Level 1 consists of three projects that helped me gain a foundational understand
      experience, featuring eye-catching designs, subtle animations, and interactive elements.
 * Technologies Used: HTML, CSS and Js.
 * Deployment: The page is deployed on Vercel at [Fitness Revolution](https://oibsip-gamma.vercel.app/).
-* Repository: The project's GitHub repository can be found at [GitHub Repository](https://github.com/ripper06/OIBSIP/tree/main/Gym%20website).
+* Repository: The project's GitHub repository can be found at [[GitHub Repository](https://github.com/ripper06/OIBSIP/tree/main/Temp%20Converter).
 * ScreenShots:
 
 3. Project 3
