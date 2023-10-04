@@ -11,7 +11,7 @@ Level 1 consists of three projects that helped me gain a foundational understand
 * Technologies Used: HTML and CSS.
 * Deployment: The page is deployed on Vercel at [Fitness Revolution](https://oibsip-gamma.vercel.app/).
 * Repository: The project's GitHub repository can be found at [GitHub Repository](https://github.com/ripper06/OIBSIP/tree/main/Gym%20website).
-* ScreenShots:
+* ScreenShot:
 
 ![Screenshot 2023-10-03 125400](https://github.com/ripper06/OIBSIP/assets/138066281/be5e693f-f0dc-460a-a5e5-26fde6396eb2)
 
@@ -20,9 +20,14 @@ Level 1 consists of three projects that helped me gain a foundational understand
 * Description: A sleek and professional portfolio website, expertly built using HTML, CSS, and JavaScript. It effortlessly combines creativity with seamless user 
      experience, featuring eye-catching designs, subtle animations, and interactive elements.
 * Technologies Used: HTML, CSS and Js.
-* Deployment: The page is deployed on Vercel at [Fitness Revolution](https://oibsip-gamma.vercel.app/).
-* Repository: The project's GitHub repository can be found at [[GitHub Repository].
+* Deployment: The page is deployed on Vercel at [Portfolio Website](https://portfolio-website-ra59s6dq5-ripper06s-projects.vercel.app/).
+* Repository: The project's GitHub repository can be found at [GitHub Repository](https://github.com/ripper06/OIBSIP/tree/main/T2-%20Portfolio%20Website).
 * ScreenShots:
+  
+![Screenshot 2023-10-04 171618](https://github.com/ripper06/OIBSIP/assets/138066281/3dc0310d-bcfe-45b3-b5dd-4fb94e490549)
+![Screenshot 2023-10-04 171745](https://github.com/ripper06/OIBSIP/assets/138066281/e96f1006-561f-42d6-ab45-914997f1a0fd)
+![Screenshot 2023-10-04 171928](https://github.com/ripper06/OIBSIP/assets/138066281/e788dce9-047d-43e8-bfb6-f733431aae79)
+
 
 3. Project 3
 
@@ -30,7 +35,7 @@ Level 1 consists of three projects that helped me gain a foundational understand
 * Technologies Used: HTML, CSS and Js.
 * Deployment: The page is deployed on Vercel at [Temprature Converter](https://tempratureconverter.vercel.app/).
 * Repository: The project's GitHub repository can be found at [GitHub Repository](https://github.com/ripper06/OIBSIP/tree/main/Temp%20Converter).
-* ScreenShots:
+* ScreenShot:
 
 ![Screenshot 2023-10-03 215537](https://github.com/ripper06/OIBSIP/assets/138066281/45ca891b-085f-48cb-960a-432106e333ee)
 
